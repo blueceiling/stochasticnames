@@ -1,4 +1,4 @@
-### A tool for masking your real name in online accounts
+## A tool for masking your real name in online accounts
 
 Download the repository, then run:
 ```
